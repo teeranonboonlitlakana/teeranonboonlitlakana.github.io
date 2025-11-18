@@ -1,6 +1,6 @@
----
+;;;---
 title: "Kanchanaburi-Chantaburi Pyroxene chemistry"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Compositional variations of Pyroxene"
 collection: portfolio
 ---
 <img width="995" height="768" alt="image" src="https://github.com/user-attachments/assets/4a7a6e9f-5bbc-4d46-b9c7-dd1d81466390" />
