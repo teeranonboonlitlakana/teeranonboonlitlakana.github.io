@@ -1,4 +1,4 @@
-;;;---
+---
 title: "Kanchanaburi-Chantaburi Pyroxene chemistry"
 excerpt: "Compositional variations of Pyroxene"
 collection: portfolio
