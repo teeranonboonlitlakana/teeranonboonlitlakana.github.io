@@ -6,8 +6,19 @@ tags:
   - Real-Time Weather Tracking: Building a Dynamic Observation Dashboard
 ---
 
-Moving beyond forecasts to real-time data. This project uses the 'WeatherToday' API to create a live dashboard featuring a heatmap bar chart of Thailand's hottest stations and a bubble map tracking rainfall intensity across the country.
+While forecasts predict the future, this project focuses on the "now." Using the TMD's WeatherToday/v2 API, I created a script to monitor real-time weather observations from stations across Thailand. This project highlights the ability to transform raw sensor data into professional-grade visual insights.
 
+Key features include:
+
+Smart Key Discovery: I implemented an automated key-hunting algorithm to robustly identify forecast data within the API, regardless of inconsistent key naming conventions (e.g., handling variations like AirTemperature vs. Temperature).
+
+Data Science Visualization:
+
+Heatmap Bar Chart: A top-15 ranking of the hottest stations, utilizing gradient coloring (yellow to red) to visually represent heat intensity.
+
+Multi-Variable Bubble Map: An advanced geospatial plot where location is mapped to coordinates, color represents temperature, and bubble size indicates rainfall intensity.
+
+This project serves as a case study in handling real-time data streams and creating multi-dimensional visualizations using Seaborn and Matplotlib.
 <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/ec9496f4-9cbf-4cd4-b84d-dca618e3f3ef" />
 
 <img width="793" height="1276" alt="image" src="https://github.com/user-attachments/assets/17b568a0-f59c-432d-9456-52202c8c7bd9" />
