@@ -6,3 +6,19 @@ tags:
   - I built a Python tool to fetch and visualize 7-day weather forecasts from the TMD API. This project tackles complex nested JSON data to generate trend graphs and temperature heatmaps of Thailand using Matplotlib and Geopandas.
 ---
 
+In this project, I developed a Python application to extract and visualize weather forecast data from the Thai Meteorological Department (TMD) API. The core challenge involved parsing a complex, polymorphic JSON structure where data formats varied dynamically between lists and dictionaries.
+
+Key features include:
+
+Automated Data Extraction: Connecting to the WeatherForecast7Days/v2 endpoint to retrieve weekly forecast data.
+
+Advanced Data Cleaning: Implementing logic to handle inconsistent API responses (normalizing nested dictionaries vs. lists) and "zipping" column-oriented arrays into structured daily records.
+
+Visualization:
+
+A Line Chart tracking temperature trends over the next week for specific provinces (e.g., Bangkok).
+
+A Choropleth Map of Thailand, merging forecast data with GeoJSON to color-code provinces based on maximum predicted temperatures.
+
+This project demonstrates skills in API integration, robust error handling, and geospatial data visualization using Pandas and Geopandas.
+
