@@ -1,7 +1,7 @@
 ---
 title: 'Visualizing Thailand''s Weather: A 7-Day Forecast Analysis with Python'
 date: 2025-12-08
-permalink: /posts/2025/12/blog-post-3/
+permalink: /posts/2025/11/A 7-Day Forecast Analysis with Python/
 tags:
   -  I built a Python tool to fetch and visualize 7-day weather forecasts from the TMD API. This project tackles complex nested JSON data to generate trend graphs and temperature heatmaps of Thailand using Matplotlib and Geopandas.
 ---
