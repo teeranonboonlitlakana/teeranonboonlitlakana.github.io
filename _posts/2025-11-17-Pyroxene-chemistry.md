@@ -1,7 +1,7 @@
 ---
 title: 'Pyroxene chemistry'
 date: 2025-11-17
-permalink: /posts/Pyroxene chemistry
+permalink: /posts/Pyroxene-chemistry
 tags:
   - Compositional variations of Pyroxene
 ---
