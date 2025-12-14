@@ -20,3 +20,6 @@ Skills developed
 + Preparing for advanced topics such as Pandas, data analysis, and machine learning
 
 <img width="4800" height="2960" alt="TeeranonBoon - Python" src="https://github.com/user-attachments/assets/8d6dc2c7-1a83-4603-aa44-3386c76cd6a2" />
+
+<img width="624" height="549" alt="image" src="https://github.com/user-attachments/assets/bd9afd6c-6fac-4372-b61b-12013cb7e982" />
+
